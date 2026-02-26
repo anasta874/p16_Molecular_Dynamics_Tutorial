@@ -1,6 +1,8 @@
 # p16 Molecular Dynamics Tutorial
 
-A step-by-step educational tutorial for performing and analyzing a 200 ns molecular dynamics (MD) simulation of the p16 (CDKN2A) tumor suppressor protein using GROMACS.
+A step-by-step educational tutorial for performing and analyzing a 200 ns molecular dynamics (MD) simulation of the small tumor suppressor protein p16 (CDKN2A, 156 amino acids) using GROMACS.  
+
+The relatively small size of p16 makes it well suited for educational molecular dynamics workflows and trajectory analysis.
 
 Designed for students learning molecular dynamics workflows and structural bioinformatics.
 
