@@ -90,9 +90,11 @@ All systems undergo the same standardized 200 ns MD pipeline.
 
 ## Data Availability
 
-Full 200 ns production trajectories (WT and mutants) are available on Zenodo:
+Full 200 ns production trajectories (WT and mutants), including all input files and run scripts, are available on Zenodo:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18367796.svg)](https://doi.org/10.5281/zenodo.18367796)
+
+The archive contains the complete simulation workflow for full reproducibility.
 
 Total dataset size: ~44.7 GB.
 
